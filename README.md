@@ -1,2 +1,3 @@
 # wordpress
-Wordpress Demo
+
+Wordpress Demo using Docker
